@@ -1,0 +1,22 @@
+[
+  {
+    "description": "默认get",
+    "req": {
+      "uri": "/test",
+      "method": "get"
+    },
+    "resp": {
+      "text": "这是默认的get请求"
+    }
+  },
+  {
+    "description": "默认post",
+    "req": {
+      "uri": "/test",
+      "method": "post"
+    },
+    "resp": {
+      "text": "这是默认的post请求"
+    }
+  }
+]
